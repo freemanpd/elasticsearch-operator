@@ -1,0 +1,7 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Elasticsearch
+metadata:
+  name: example-elasticsearch
+spec:
+  # Add fields here
+  size: 3
