@@ -1,5 +1,5 @@
 ansible==2.8.6
-ansible-runner==1.4.2
+ansible-runner==2.1.1
 ansible-runner-http==1.0.0
 certifi==2019.9.11
 cffi==1.13.1
